@@ -14,10 +14,10 @@ public class app {
     }
   
     public static void main(String[] args) {
-      int a = 6;
-      int b = 78;
-      int c = 3;
-      int d = 5;
+      int a = 2;
+      int b = 12;
+      int c = 2;
+      int d = 3;
       var so = solve(a, b, c, d);
   
       for (int i = 0; i < so.length; i++) {
